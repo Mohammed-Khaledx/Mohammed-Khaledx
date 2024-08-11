@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on my way to be a great Software Engineer
+- 🔭 I’m on my way to be a great Software Engineer
 
 
 <!--
