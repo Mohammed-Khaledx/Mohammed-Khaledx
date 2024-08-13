@@ -1,18 +1,30 @@
-## Hi there 👋
-- 🔭 I’m on my way to be a great Software Engineer
+
+# 🌌 Hello, I'm [Mohammed Khaled] 👋
+
+Welcome to my corner of the universe! I'm a passionate **[Software Engineer]** with a love for exploring the depths of **technology** and **creativity**.
+
+---
+
+## 🚀 About Me
+- 🌱 I’m currently expanding my knowledge in **[Fullstack Web Development]**.
+- 🌐 I enjoy building **[Websites/Applications/Robots]** and pushing the boundaries of what’s possible.
+
+---
 
 
-<!--
-**Mohammed-Khaledx/Mohammed-Khaledx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌠 My Tech Universe
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![ESP32](https://img.shields.io/badge/-ESP32-333333?style=flat&logo=esp32)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ☄️ Let's Connect
+- 📫 Reach me at [mohammedkhaledx1@gmail.com]
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🐦 [Twitter](https://twitter.com/your-profile)
+
+---
+
